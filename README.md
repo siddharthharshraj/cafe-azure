@@ -33,7 +33,7 @@ To streamline order tracking, the app allows users to search for their orders us
 
 ## How to Run the App
 
-1. Clone the repository: `git clone https://github.com/your-username/cafe-azure.git`
+1. Clone the repository: `git clone https://github.com/siddharthharshraj/cafe-azure.git`
 
 2. Install dependencies: `npm install`
 
